@@ -1,0 +1,2 @@
+# USB-autorun
+usb autocopi
